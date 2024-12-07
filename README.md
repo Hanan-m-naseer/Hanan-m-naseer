@@ -15,3 +15,5 @@
   📫 How to reach me: ...
 </h6>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-m-naseer)](https://github.com/Hanan-m-naseer/github-readme-stats)
+
